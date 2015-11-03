@@ -16,7 +16,7 @@ International Programs and Agencies
 * Southern Ocean Observing System (SOOS)
 * OceanSites
 * Argo
-* CDIAC
+* [CDIAC](http://cdiac.ornl.gov)
 
 National Programs and Agencies
 ------------------------------
