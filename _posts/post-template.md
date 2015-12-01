@@ -5,7 +5,7 @@ date:   2015-12-01
 categories:
 ---
 
-## Creating a new "New & Updates" post (also outreach)
+## Creating a new "News & Updates" post (also outreach)
 
 1. Copy this file and name it in the format "YYYY-MM-DD-post-title.md" (see other files in the _posts dir for examples).
    Where YYYY-MM-DD is a date in ISO 8601 format and the post title words are seperated by dashes.
