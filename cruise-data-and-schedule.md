@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default-fluid
 title: "Cruise Data & Schedules"
 permalink: /hydrotable/
 ---
