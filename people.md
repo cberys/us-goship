@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-permalink: /People/
+permalink: /people/
 ---
 
 ## US GO-SHIP principal investigators and chief scientists
