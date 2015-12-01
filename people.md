@@ -5,6 +5,11 @@ permalink: /People/
 ---
 
 ## US GO-SHIP principal investigators and chief scientists
+
+Here is some awersome text that is just markdown.
+
+And here is the table.
+
 <table class="table">
     <thead>
       <tr>
