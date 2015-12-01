@@ -1,8 +1,8 @@
 ---
-title: Home
 layout: default
 ---
 
+<div class='col-md-8'>
 <a class="twitter-timeline" href="https://twitter.com/Ushydro" data-widget-id="657312203238862848">Tweets by @Ushydro</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <div class="home">
   <a class="twitter-grid" 
@@ -11,20 +11,20 @@ layout: default
     Collection on Twitter</a>
   <script async src="https://platform.twitter.com/widgets.js"></script>
 
-  <h1 class="page-heading">Posts</h1>
+</div>
+
+</div>
+<div class="col-md-4">
+  <h2 class="page-heading">News &amp; Updates</h2>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:10%}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
+        <h3>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </h3>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
