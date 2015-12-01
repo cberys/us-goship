@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 ## US GO-SHIP principal investigators and chief scientists
-<div class="table-responsive">
+
 <table class="table">
     <thead>
       <tr>
@@ -372,4 +372,3 @@ permalink: /people/
       </tr>
  </tbody>
 </table>
-</div>
