@@ -8,7 +8,7 @@ permalink: /get_involved/
 
 ### Chief Scientist
 
-* Who to contact
+* Contact: [Lynne Talley](mailto:lynne@example.com)
 * responcibilities 
 
 ### Co-Chief Scientist
